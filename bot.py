@@ -4,7 +4,7 @@ import zipfile
 import requests
 import telebot
 
-TOKEN = "8902637263:AAF9Uehp6MRdH1272APZxJVvfRonV76QDPw"
+TOKEN = "8902637263:AAEfkuzqnCK-gEkKOS4d8jBBhzxMJp9ybdo"
 bot = telebot.TeleBot(TOKEN)
 
 # Temporary storage API URL yaad rakhne ke liye
